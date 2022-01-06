@@ -1,6 +1,6 @@
 package com.github.tartaricacid.bakadanmaku.utils;
 
-import com.github.tartaricacid.bakadanmaku.eneity.MsgAndStyle;
+import com.github.tartaricacid.bakadanmaku.entity.MsgAndStyle;
 import net.minecraft.util.text.*;
 
 import java.util.ArrayList;

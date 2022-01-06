@@ -1,4 +1,4 @@
-package com.github.tartaricacid.bakadanmaku.eneity;
+package com.github.tartaricacid.bakadanmaku.entity;
 
 import net.minecraft.util.text.Color;
 import net.minecraft.util.text.Style;
